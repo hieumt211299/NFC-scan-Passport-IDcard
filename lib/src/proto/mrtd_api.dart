@@ -12,7 +12,7 @@ import '../lds/df1/df1.dart';
 import '../lds/tlv.dart';
 import '../utils.dart';
 
-import 'package:dmrtd/extensions.dart';
+import 'package:readcic/extensions.dart';
 import 'package:logging/logging.dart';
 
 class MrtdApiError implements Exception {

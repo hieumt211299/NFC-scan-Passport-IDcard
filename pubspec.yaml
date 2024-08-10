@@ -1,4 +1,4 @@
-name: dmrtd
+name: readcic
 description: Dart implementation of ICAO Doc 9303 MRTD
 
 version: 1.4.3

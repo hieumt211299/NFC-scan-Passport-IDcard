@@ -23,12 +23,12 @@ internal.dart - exposes internal components of the library such as MrtdApi, ICC 
 
 ## Usage
 
-1.  Include `dmrtd` library in your project's `pubspec.yaml` file:
+1.  Include `readcic` library in your project's `pubspec.yaml` file:
 
 ```
 dependencies:
   dmrtd:
-    path: '<path_to_dmrtd_folder>'
+    path: '<path_to_readcic_folder>'
 ```
 
 2.  Run
